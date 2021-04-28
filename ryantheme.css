@@ -624,7 +624,7 @@ a,
     position: absolute;
     width: 4px;
     height: 90%;
-    background: var(--accent-color);
+    background: var(--alt-accent);
     top: 0;
     left: 0;
     bottom: 0;
