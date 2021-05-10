@@ -1,5 +1,6 @@
 :root {
   --accent-color: #154A92;
+  --accent-newrgb: #FFFFFF;
   --accent-hover: #1556AF;
   --accent-rgb: 21,74,146;
   --accent-text-color: #fff;
@@ -792,7 +793,7 @@ a,
 .reaction-1hd86g.reactionMe-wv5HKu {
   background-color: rgba(var(--accent-rgb), 0.3); }
   .reaction-1hd86g.reactionMe-wv5HKu .reactionCount-2mvXRV {
-    color: var(--accent-color); }
+    color: var(--accent-newrgb); }
 
 /* MAIN CHAT/MESSAGES AREA -> MESSAGES -> ACTIONS */
 .mouse-mode .message-2qnXI6:hover {
